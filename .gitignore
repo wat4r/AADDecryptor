@@ -1,0 +1,6 @@
+**/*.test
+bin/
+assets/
+.idea/
+.vscode/
+*.exe
